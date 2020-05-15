@@ -96,3 +96,8 @@ font-size: 18px;
 letter-spacing: 2.5px;
 margin: 16px 0;
 }
+.p {
+    width: 500px;
+    line-height: 1.65;
+    
+}
